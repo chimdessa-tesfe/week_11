@@ -6,4 +6,4 @@ relevant information. This startup is responsible to install all the required se
 receive a stream of data from all sensors, and analyse the data to provide key insights
 to the business. The objective is to reduce the cost of
 running the client facility as well as to increase the livability and productivity of
-workers.**
+workers,.**
